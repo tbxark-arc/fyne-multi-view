@@ -1,4 +1,4 @@
-module github.com/TBXark/fyne-multi-view
+module github.com/tbxark-arc/fyne-multi-view
 
 go 1.25.5
 
